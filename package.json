@@ -1,0 +1,23 @@
+{
+  "name": "gideon-ayomide-portfolio",
+  "version": "1.0.0",
+  "description": "Software Engineer Portfolio",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve . -p 3000",
+    "dev": "serve . -p 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "software engineer",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Gideon Ayomide",
+  "license": "MIT"
+}
